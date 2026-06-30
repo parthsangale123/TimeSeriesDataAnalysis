@@ -126,16 +126,3 @@ Place `weatherHistory.csv` in the project directory and execute:
 python weather_lstm_weatherHistory.py
 ```
 
-## Future Improvements
-
-- Predict multiple weather parameters simultaneously
-- Hyperparameter optimization
-- Bidirectional LSTM or GRU architectures
-- Attention mechanisms
-- Longer forecasting horizons
-- Interactive dashboard for visualization
-- Model deployment using Flask or FastAPI
-
-## License
-
-This project is intended for educational and research purposes.
