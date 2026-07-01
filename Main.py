@@ -1,5 +1,4 @@
 
-# Weather LSTM Forecasting for weatherHistory.csv
 import os, warnings, pickle
 import numpy as np
 import pandas as pd
